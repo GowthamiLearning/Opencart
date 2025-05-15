@@ -1,24 +1,26 @@
-10:02:16.960 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\master.xml"
-10:02:23.295 [main] INFO  testCases.TC001_AccountRegTest - TC001_AccountRegTest started
-10:02:24.190 [main] INFO  testCases.TC001_AccountRegTest - clicked on Register link
-10:02:24.196 [main] INFO  testCases.TC001_AccountRegTest - providing the details
-10:02:26.769 [main] INFO  testCases.TC001_AccountRegTest - Finished
-10:02:30.358 [main] INFO  testCases.TC002_LoginTest - *****TC started*****
-10:02:31.347 [main] INFO  testCases.TC002_LoginTest - clicked on login button
-10:02:32.843 [main] INFO  testCases.TC002_LoginTest - Navigated to MyAccount Page
-10:05:53.085 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\master.xml"
-10:05:58.821 [main] INFO  testCases.TC001_AccountRegTest - TC001_AccountRegTest started
-10:05:59.784 [main] INFO  testCases.TC001_AccountRegTest - clicked on Register link
-10:05:59.790 [main] INFO  testCases.TC001_AccountRegTest - providing the details
-10:06:02.672 [main] INFO  testCases.TC001_AccountRegTest - Finished
-10:06:06.584 [main] INFO  testCases.TC002_LoginTest - *****TC started*****
-10:06:07.185 [main] INFO  testCases.TC002_LoginTest - clicked on login button
-10:06:08.688 [main] INFO  testCases.TC002_LoginTest - Navigated to MyAccount Page
-10:06:31.671 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\master.xml"
-10:06:37.173 [main] INFO  testCases.TC001_AccountRegTest - TC001_AccountRegTest started
-10:06:38.141 [main] INFO  testCases.TC001_AccountRegTest - clicked on Register link
-10:06:38.145 [main] INFO  testCases.TC001_AccountRegTest - providing the details
-10:06:40.916 [main] INFO  testCases.TC001_AccountRegTest - Finished
-10:06:44.911 [main] INFO  testCases.TC002_LoginTest - *****TC started*****
-10:06:45.526 [main] INFO  testCases.TC002_LoginTest - clicked on login button
-10:06:46.925 [main] INFO  testCases.TC002_LoginTest - Navigated to MyAccount Page
+16:57:45.692 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\grid-docker.xml"
+16:57:46.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\grid-docker.xml
+
+16:58:16.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\grid-docker.xml"
+16:58:16.888 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\grid-docker.xml
+
+16:58:23.655 [main] INFO  testCases.TC001_AccountRegTest - TC001_AccountRegTest started
+16:58:24.639 [main] INFO  testCases.TC001_AccountRegTest - clicked on Register link
+16:58:24.660 [main] INFO  testCases.TC001_AccountRegTest - providing the details
+16:58:27.520 [main] INFO  testCases.TC001_AccountRegTest - Finished
+16:58:31.300 [main] INFO  testCases.TC002_LoginTest - *****TC started*****
+16:58:31.988 [main] INFO  testCases.TC002_LoginTest - clicked on login button
+16:58:33.571 [main] INFO  testCases.TC002_LoginTest - Navigated to MyAccount Page
+16:58:47.512 [main] INFO  testCases.TC002_LoginTest - *****TC started*****
+16:58:48.898 [main] INFO  testCases.TC002_LoginTest - clicked on login button
+16:58:50.492 [main] INFO  testCases.TC002_LoginTest - Navigated to MyAccount Page
+17:57:30.599 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kkart\Documents\Gowthami\Selenium Java\Workspace\Opencart\master.xml"
+17:57:36.573 [main] INFO  testCases.TC001_AccountRegTest - TC001_AccountRegTest started
+17:57:37.518 [main] INFO  testCases.TC001_AccountRegTest - clicked on Register link
+17:57:37.544 [main] INFO  testCases.TC001_AccountRegTest - providing the details
+17:57:39.661 [main] INFO  testCases.TC001_AccountRegTest - Finished
+17:57:43.712 [main] INFO  testCases.TC002_LoginTest - *****TC started*****
+17:57:44.390 [main] INFO  testCases.TC002_LoginTest - clicked on login button
+17:57:45.840 [main] INFO  testCases.TC002_LoginTest - Navigated to MyAccount Page
